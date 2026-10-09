@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Foresight",
+  "description": "Hospital operations AI command center with predictive surge telemetry, bottleneck intelligence, scenario simulation, and digital twin bed tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
